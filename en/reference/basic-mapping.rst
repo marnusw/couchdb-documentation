@@ -64,6 +64,7 @@ Here is a quick overview of the built-in mapping types:
    DateTime object.
 -  ``mixed``: Type that saves and retrives any value unconverted into the Couch.
 -  ``integer``: Type that ensures the value to be an integer.
+-  ``float``: Type that ensures the value to be a float/double.
 -  ``boolean``: Type that ensures the value to be a boolean.
 
 Field Mapping
